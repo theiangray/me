@@ -27,7 +27,9 @@ After testing the limits of my Khmer we found the bus station and confirmed our 
 
 The remainder of the trip was pretty uneventful and the bloke from the accommodation organised a tuktuk to collect us from the bus depot. We settled in to our new digs and ordered some food. Happy days!
 
-I spoke to the owner of the AirBnB, a very intelligent and well travelled Cambodian bloke, and he invited me to breakfast a few times at a local cafe that serves some fantastic coffee and bread. Many good chats have been had so far and the place has been spectacularly quiet and peaceful with the exception of about three days of earsplitting music from a neighbouring property which apparently is a funeral tradition. We did have one brief encounter with a fairly angry black scorpion finding its way into our living quarters which was exciting. I'll have to work out how to post photos at some point.
+I spoke to the owner of the AirBnB, a very intelligent and well travelled Cambodian bloke, and he invited me to breakfast a few times at a local cafe that serves some fantastic coffee and bread. Many good chats have been had so far and the place has been spectacularly quiet and peaceful with the exception of about three days of earsplitting music from a neighbouring property which apparently is a funeral tradition. We did have one brief encounter with a fairly angry black scorpion finding its way into our living quarters which was exciting.
+
+![nasty scorpion]({{ site.baseurl }}/img/scorpion.jpg "One big angry scorpi boi")
 
 
 Anyway that bring you up to speed on my COVID-19 story. If you made it this far, thanks for reading. I'll continue to keep this updated as the story progresses!
