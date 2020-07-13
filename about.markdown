@@ -9,7 +9,7 @@ G'day!
 
 ![Ian Gray]({{ site.baseurl }}https://avatars2.githubusercontent.com/u/51367971?s=460&u=e16d9afa8029e7f2676089c184856d004dfa54a7&v=4 "Ian Gray")
  
-My name is Ian and I'm a data analyst and seasoned business generalist with a background in operations and project management. I cut my teeth working in the field as a technician and understand what is needed to drive business growth. I am currently pursuing my well overdue undergraduate studies in economics and business analytics while residing in the great Kingdom of Kamboja.
+My name is Ian and I'm a data analyst and seasoned business generalist with a background in operations and project management. I cut my teeth working in the field as a technician and understand what is needed to drive business growth. I am currently pursuing my well overdue undergraduate studies in economics and business analytics while residing in the great Kingdom of Cambodia!
 
 ### The Career ###
 My first job was as a junior computer technician in a small shop in Far North Queensland while I was in high school. I recall dropping off my resume and being so determined to get the job that I returned each weekend to check if they were still considering hiring someone. It worked, and I scored the job repairing computers after school and on weekends. I eventually moved to Townsville after I finished school to chase bigger and better opportunities which, after a few gigs delivering pizza and stocking shelves, lead me to an apprenticeship as an electronics and telecommunications technician. Many long days and nights were spent repairing all sorts of gear and running cables through dusty, somewhat dilapidated rural pub ceilings but I gained a great deal of hands-on experience in the process. 
