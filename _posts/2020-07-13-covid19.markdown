@@ -32,7 +32,7 @@ I spoke to the owner of the AirBnB, a very intelligent and well travelled Cambod
 ![nasty scorpion]({{ site.baseurl }}/img/scorpion.jpg "One big angry scorpi boi")
 
 
-Anyway that bring you up to speed on my COVID-19 story. If you made it this far, thanks for reading. I'll continue to keep this updated as the story progresses!
+Anyway that brings you up to speed on my COVID-19 story. If you made it this far, thanks for reading. I'll continue to keep this updated as the story progresses!
 
 To be continued...
  
